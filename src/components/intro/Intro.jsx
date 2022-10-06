@@ -19,7 +19,7 @@ export const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, exercitationem recusandae animi eos, molestias sapiente optio sunt voluptas obcaecati earum ratione natus repudiandae facere odit.
+            Computer Enginnering Student IPN | I am constantly learning, do not be surprise if you see something peculiar. Web depelover, I am interested in fron-end technologies
           </p>
         </div>
         

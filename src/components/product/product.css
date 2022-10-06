@@ -9,7 +9,7 @@
 
 .p-browser{
     height: 20px;
-    background-color: rgb(243, 242, 242);
+    background-color: #2B2726;
     display: flex;
     align-items: center;
 }
@@ -20,6 +20,11 @@
     border-radius: 50%;
     margin: 3px;
     background-color: white;
+}
+
+.p-img{
+    width: 100%;
+    height: 100%;
 }
 
 @media screen and (max-width: 480px) {
